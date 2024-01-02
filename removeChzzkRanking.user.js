@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  ㅈㄱㄴ
 // @author       역붕이
-// @match        https://chzzk.naver.com/live/*
+// @match        https://chzzk.naver.com/*
 // @grant        none
 // ==/UserScript==
 
